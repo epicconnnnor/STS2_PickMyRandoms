@@ -40,8 +40,6 @@ The game resolves "Random" deterministically from the run seed on every client. 
 
 ## License
 
-<<<<<<< HEAD
+
 MIT
-=======
-MIT
->>>>>>> 6e27b901e379549309c02e6de0086ceeaad1a710
+
