@@ -2,7 +2,7 @@
 
 A Slay the Spire 2 mod: right-click characters on the select screen to exclude them from the Random pool. Love random, skip the ones you're burned out on.
 
-![cover](cover.jpg)
+![cover](image.png)
 
 ## Features
 
